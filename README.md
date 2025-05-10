@@ -1,2 +1,3 @@
-Just need to have REact setup to run app
+Just need to have React setup to run app
+
 Can view live at: https://noureen111.github.io/stopwatch/
